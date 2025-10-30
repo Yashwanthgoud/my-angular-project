@@ -12,7 +12,7 @@ phases:
     commands:
       - ng build -c production
 artifacts:
-  base-directory: dist/my-angular-website-yash
+  base-directory: dist/my-angular-project
   files:
     - '**/*'
 
